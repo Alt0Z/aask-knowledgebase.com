@@ -4,16 +4,16 @@
 var config = {
 
   // Your site title (format: page_title - site_title)
-  site_title: 'Raneto Docs',
+  site_title: 'ААСК: База знаний',
 
   // The base URL of your site (can use %base_url% in Markdown files)
   base_url: '',
 
   // Used for the "Get in touch" page footer link
-  support_email: '',
+  support_email: 'support@appodeal.com',
 
   // Footer Text / Copyright
-  copyright: 'Copyright &copy; '+ new Date().getFullYear() +' - <a href="http://raneto.com">Powered by Raneto</a>',
+  copyright: 'Made by Andrew Tinekov and Roman Shakhanov 2016 '+ new Date().getFullYear() +' - <a href="http://raneto.com">Powered by Raneto</a>',
 
   // Excerpt length (used in search)
   excerpt_length: 400,
@@ -47,7 +47,7 @@ var config = {
   analytics: '',
 
   // Set to true to enable the web editor
-  allow_editing : false,
+  allow_editing : true,
 
   // Set to true to enable HTTP Basic Authentication
   authentication : false,
