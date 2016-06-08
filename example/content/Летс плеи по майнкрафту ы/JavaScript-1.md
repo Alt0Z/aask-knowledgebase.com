@@ -6,7 +6,7 @@
 </head>
 
 <body>
-  <video id="my-video" class="video-js" controls preload="auto" width="800" height="600"
+  <video id="my-video" class="video-js" controls preload="auto" width="230" height="182"
   poster="MY_VIDEO_POSTER.jpg" data-setup="{}">
     <source src="%image_url%/java1.mp4" type='video/mp4'>
     <p class="vjs-no-js">

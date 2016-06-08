@@ -63,6 +63,8 @@ var config = {
     //title       : 'Custom Home Title',
     //description : 'Custom Home Description'
   }
+  
+  
 
 };
 
